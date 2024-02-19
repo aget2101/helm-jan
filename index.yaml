@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp-jan:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2024-02-19T00:10:52.0089529-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 602db2093db2f78ad4508a166035700457fb37c2c08e1d1f3e5369edab16d6b7
+    name: myapp-jan
+    type: application
+    urls:
+    - myapp-jan-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-02-19T00:10:52.0089529-06:00"
